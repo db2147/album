@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\ebc606d87f7c34849fc8b23189efd2d103979c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_716287261c27eef62d9aca3ded56d6bed4ef7ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\b9066f177c9f9477ac97f766613f4408cd806eee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04bc75873b60c11c5b69eb9ef84a2ae534137c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\ae3cac86c81e53dd03689cdec20725f77b9d741c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82dfac54d380952746e0b08d31fcceb01b76785e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\9ff3f7a71ebd1fb30225b5b60e49d03524174a32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1344ee7176af60d448b0b0725d5a91765ab6e3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_a331ad6fd8709bc3c10dfec980c19d060fd5f9b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_003df46e4d3653dab9dad8eb0a2efc6a49700f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\98dc38f30ebc5bfc76651bd7d2168c22d9cb2082\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfcd6d70e3faf1209f4019edc9237d5d16998a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\0818b1300695cc94ddac072f5ab0cf03f1e2a3c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cf878d186afab87c5e959a08052a5d7d1ef35d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\dc3deae07f9ab1abca2bf355d240387b36c082da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe1051f7d2103511509528c097ac8b3e9ae77ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\28cc8812ff1508c59ba444797ded4d030461353b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3eaf2a69832dec684a3e23371aa9b5faee5f0dad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_2c89d08beaffd9f3288a314885f35cf636b4de7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\a45bedf8e6af6b028cfd6dacb004c5e9382a6c44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eb48807951b723390e793739f1d05be796fe84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_c32063eb199258c267fbc4a7009636d95234d1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.6.0_e8c15c1fce8012948855ca15178bc230653939e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\55f7496189bda65dd8b1d10f33864b6419537b6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21b216c19b87934d7e38296055da1f31b7fa4f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\07b5b6af1723d95c8684ba274f614048bafa04d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e09c63cc7e90c886210fdfce019603ff6c78f08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\e6b429f320afa2834031ae106eab7b2bccc0c115\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_380fa86903c229e16f878730992dbd3d26c84872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\04bdbc80763ad4d1d8e16c8aa85767ebc5edddcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19cdcb08cd02994f567e1b224cc0024f330326b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\3ababae32c3d08a4f6ff3d88afdde2cc437384ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b78bb777e09527fccafad5e9e95abe84235651c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\3d0c6851ec0ba732f69f76cbe7c1f44a10a17a4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46c414eabec9b00bee5ba354a614db497936cd35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b74b2e9fe0469e81a237df35049c60f74f52c749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\c906d7cae5646e53a95d280da0c13881f1ff9c0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c33a5f1e246c4f0445fb1a96bd23568e4ad2e555\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4077ec40e4e344a802f652ccad39b9ae46d41578">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ca8203ab8e02a958803d2b8b73f82f6fae6f5ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_10c8a735b2ebc60037471cd4d916ec08122d01f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\41fdf0e8762d23d751ac1f9e7ff02fb904eb3833\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cd660b3969433891f9b095f33e6955a13236d9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\b4fa307cbb9fb09b6fb3410e04712193d78db47e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57d0c9872168c880cacdf07cc02ac9e66e140687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\a45ad401d38ed8f2610d88db34d7b6c7ee4e1a0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af19e686465d61b4e168f9b7ca645647e828d616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.android\build-cache\dc3deae07f9ab1abca2bf355d240387b36c082da\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-4.0_09bdf6b0f7aee88b18928001da0506f334f6e886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_bb3f8709b898710a5c415711ceba9a85033d974f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_2d7b8a7c584b50a57299d12f6ec76be41ca20c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_d8921091069b109acfd82c6c67b602b63caf8cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kris\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Kris\Desktop\react_native\albums\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_1ec641eb2feee5d1e357371f43e34532a3d16f86\classes.dex" />
+    </item>
+
+</items>
